@@ -1,2 +1,2 @@
 # jenkins-class
-test
+test test
